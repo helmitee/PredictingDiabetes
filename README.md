@@ -8,4 +8,5 @@ A group project of 2 students. In this project, we use machine learning to predi
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>ML methods: logistic regression, decision tree</b>
+- <b>ML methods: Logistic regression, Decision tree</b>
+- <b>Confusion matrix, Logistic loss function</b>
