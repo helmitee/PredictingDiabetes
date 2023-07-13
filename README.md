@@ -8,4 +8,4 @@ A group project of 2 students.
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>PyCharm, ML methods: logistic regression, </b>
+- <b>PyCharm, ML methods: logistic regression, decision tree</b>
